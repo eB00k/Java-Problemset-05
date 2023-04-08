@@ -1,4 +1,5 @@
-package org.example.P6;
+package P6;
+// PS06-Problem-01: Account Class
 
 public class Account{
     private int accountNumber;

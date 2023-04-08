@@ -1,3 +1,5 @@
+package P6;
+// PS06-Problem-06: Calculator
 import java.util.Scanner;
 
 public class Calculator {

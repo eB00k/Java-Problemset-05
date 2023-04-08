@@ -1,4 +1,4 @@
-package org.example.P6;
+// PS06-Q1-B: Problem-01
 
 import java.util.Scanner;
 

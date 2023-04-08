@@ -1,4 +1,4 @@
-package org.example.P6;
+package P6;
 
 public class MyPoint {
     private int x = 0;

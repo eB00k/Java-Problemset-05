@@ -1,3 +1,4 @@
+// PS06-Q1-A: Problem-01
 import java.util.Scanner;
 
 import static java.lang.Character.isDigit;

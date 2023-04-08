@@ -1,4 +1,5 @@
-package org.example.P6;
+package P6;
+// PS06-Problem-05: Fibonacci Sequence
 
 import java.util.Scanner;
 

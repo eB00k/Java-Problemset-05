@@ -1,4 +1,4 @@
-package org.example.P6;
+package P6;
 
 class ResistorColor {
 
