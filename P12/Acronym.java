@@ -1,4 +1,4 @@
-package P11;
+package P12;
 
 public class Acronym {
     private String acronym;

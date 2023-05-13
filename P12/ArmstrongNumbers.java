@@ -1,4 +1,4 @@
-package P11;
+package P12;
 
 public class ArmstrongNumbers {
     private String[] num;

@@ -1,4 +1,4 @@
-package P11;
+package P12;
 
 import java.util.HashMap;
 public class ResistorColorDuo {
